@@ -17,3 +17,7 @@ f(t)=\left[\sin(10t)+0.5\sin(1000t)\right]u(t)
 ```
 
 The initial condition is
+
+```math
+y(0)=0
+```
