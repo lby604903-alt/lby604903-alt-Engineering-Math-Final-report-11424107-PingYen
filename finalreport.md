@@ -563,3 +563,5 @@ A_{out}
 =
 70.72\%
 ```
+
+The attenuation is
