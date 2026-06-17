@@ -305,3 +305,13 @@ Y_2(s)
 ```
 
 Apply the inverse Laplace transform.
+
+```math
+y_2(t)
+=
+-0.25\cos(1000t)
++
+0.25\sin(1000t)
++
+0.25e^{-1000t}
+```
