@@ -478,3 +478,10 @@ The transient response is
 ```
 
 Its limit is
+
+```math
+\lim_{t\to\infty}
+0.259999e^{-1000t}
+=
+0
+```
