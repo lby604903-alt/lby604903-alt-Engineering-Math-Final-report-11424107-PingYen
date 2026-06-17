@@ -573,3 +573,11 @@ The attenuation is
 =
 29.28\%
 ```
+
+---
+
+# Verification Result
+
+## Low-Frequency Signal Preserved
+
+## High-Frequency Component Attenuated
