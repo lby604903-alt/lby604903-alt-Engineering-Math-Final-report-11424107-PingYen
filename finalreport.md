@@ -464,3 +464,5 @@ y(t)
 0.259999e^{-1000t}
 \right]u(t)
 ```
+
+The first two terms are the steady-state response, and the last term is the transient response.
