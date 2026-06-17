@@ -239,3 +239,5 @@ Multiply by
 +
 F(s^2+1000000)
 ```
+
+Expand.
