@@ -267,3 +267,5 @@ D+F=0
 ```math
 1000E+1000000F=500000
 ```
+
+Solve the equations.
