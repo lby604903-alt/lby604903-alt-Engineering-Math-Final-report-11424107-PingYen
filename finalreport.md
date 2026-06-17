@@ -111,4 +111,6 @@ Y(s)
 
 ## Step 4: Solve the First Term
 
+Let
+
 
