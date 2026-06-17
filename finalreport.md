@@ -54,3 +54,7 @@ Substitute into the differential equation.
 =
 \left[\sin(10t)+0.5\sin(1000t)\right]u(t)
 ```
+
+---
+
+## Step 3: Apply the Laplace Transform
