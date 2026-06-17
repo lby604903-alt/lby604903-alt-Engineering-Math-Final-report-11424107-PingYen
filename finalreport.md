@@ -178,3 +178,7 @@ Compare coefficients.
 ```math
 A+C=0
 ```
+
+```math
+1000A+B=0
+```
