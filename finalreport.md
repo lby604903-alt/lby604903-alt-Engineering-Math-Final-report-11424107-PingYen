@@ -442,3 +442,7 @@ R
 1000t-\frac{\pi}{4}
 \right)
 ```
+
+---
+
+## Step 8: Write the Final Output
