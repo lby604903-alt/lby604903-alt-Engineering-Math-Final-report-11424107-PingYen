@@ -214,3 +214,5 @@ Y_2(s)
 \frac{500000}
 {(s^2+1000000)(s+1000)}
 ```
+
+Use partial fractions.
