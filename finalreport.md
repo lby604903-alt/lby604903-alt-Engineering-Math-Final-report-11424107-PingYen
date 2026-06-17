@@ -487,3 +487,5 @@ Its limit is
 ```
 
 So the transient response disappears as time increases.
+
+The steady-state output is
