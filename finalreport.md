@@ -386,3 +386,9 @@ Then
 ```
 
 For the high-frequency term,
+
+```math
+R
+=
+\sqrt{0.25^2+(-0.25)^2}
+```
