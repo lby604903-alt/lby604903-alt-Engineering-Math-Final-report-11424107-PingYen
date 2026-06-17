@@ -466,3 +466,7 @@ y(t)
 ```
 
 The first two terms are the steady-state response, and the last term is the transient response.
+
+---
+
+## Step 9: Analyze the Transient Response
