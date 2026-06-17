@@ -269,3 +269,7 @@ D+F=0
 ```
 
 Solve the equations.
+
+```math
+F=-D
+```
