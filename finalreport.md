@@ -351,3 +351,5 @@ y(t)
 ---
 
 ## Step 7: Rewrite the Steady-State Output
+
+For the low-frequency term,
