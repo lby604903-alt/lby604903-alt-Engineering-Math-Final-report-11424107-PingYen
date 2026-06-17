@@ -186,3 +186,6 @@ A+C=0
 ```math
 1000B+100C=10000
 ```
+---
+
+## Step 5: Solve the Second Term
