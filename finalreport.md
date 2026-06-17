@@ -472,3 +472,7 @@ The first two terms are the steady-state response, and the last term is the tran
 ## Step 9: Analyze the Transient Response
 
 The transient response is
+
+```math
+0.259999e^{-1000t}
+```
