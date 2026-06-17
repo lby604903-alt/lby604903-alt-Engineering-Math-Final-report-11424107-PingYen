@@ -375,3 +375,7 @@ y(t)
 +0.259999e^{-1000t}
 \right]u(t)
 ```
+
+---
+
+## Step 7: Rewrite the Steady-State Output
