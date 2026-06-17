@@ -189,3 +189,11 @@ A+C=0
 ---
 
 ## Step 5: Solve the Second Term
+
+Let
+
+```math
+Y_2(s)
+=
+\frac{500}{(s^2+1000000)(0.001s+1)}
+```
