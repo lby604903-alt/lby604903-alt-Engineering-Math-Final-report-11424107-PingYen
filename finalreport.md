@@ -485,3 +485,5 @@ Its limit is
 =
 0
 ```
+
+So the transient response disappears as time increases.
