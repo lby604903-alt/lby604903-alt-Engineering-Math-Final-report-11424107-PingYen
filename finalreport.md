@@ -279,3 +279,5 @@ Y_2(s)
 ---
 
 ## Step 6: Combine the Output
+
+From Step 4,
