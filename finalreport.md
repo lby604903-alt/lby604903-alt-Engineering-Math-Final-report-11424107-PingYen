@@ -507,3 +507,9 @@ y_{ss}(t)
 ## Step 10: Verify the Filtering Effect
 
 For the low-frequency signal,
+
+```math
+A_{in}
+=
+1
+```
