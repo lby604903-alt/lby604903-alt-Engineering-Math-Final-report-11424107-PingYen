@@ -267,3 +267,11 @@ D+F=0
 ```
 
 Substitute the constants back.
+
+```math
+Y_2(s)
+=
+\frac{-0.25s+250}{s^2+1000000}
++
+\frac{0.25}{s+1000}
+```
