@@ -47,3 +47,10 @@ RC
 ```
 
 Substitute into the differential equation.
+
+```math
+0.001\frac{dy(t)}{dt}
++y(t)
+=
+\left[\sin(10t)+0.5\sin(1000t)\right]u(t)
+```
