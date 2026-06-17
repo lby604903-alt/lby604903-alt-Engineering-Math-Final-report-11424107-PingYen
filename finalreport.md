@@ -188,3 +188,4 @@ A+C=0
 ```
 ---
 
+## Step 5: Solve the Second Term
