@@ -448,3 +448,19 @@ R
 ## Step 8: Write the Final Output
 
 Substitute the results into the output equation.
+
+```math
+y(t)
+=
+\left[
+0.99995\sin(10t-0.01)
++
+0.3536
+\sin
+\left(
+1000t-\frac{\pi}{4}
+\right)
++
+0.259999e^{-1000t}
+\right]u(t)
+```
