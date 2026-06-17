@@ -75,3 +75,5 @@ and
 ```math
 y(0)=0
 ```
+
+we obtain
