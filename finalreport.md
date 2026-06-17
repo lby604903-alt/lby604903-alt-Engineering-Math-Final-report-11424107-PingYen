@@ -172,3 +172,5 @@ Expand.
 =
 10000
 ```
+
+Compare coefficients.
