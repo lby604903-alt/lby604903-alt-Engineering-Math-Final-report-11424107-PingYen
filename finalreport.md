@@ -275,3 +275,7 @@ Y_2(s)
 +
 \frac{0.25}{s+1000}
 ```
+
+---
+
+## Step 6: Combine the Output
