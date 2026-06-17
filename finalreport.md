@@ -86,3 +86,6 @@ we obtain
 \frac{500}{s^2+1000000}
 ```
 
+Factor out \(Y(s)\).
+
+
