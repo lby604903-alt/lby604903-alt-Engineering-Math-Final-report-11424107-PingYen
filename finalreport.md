@@ -31,3 +31,7 @@ Given
 ```math
 R=1000\Omega
 ```
+
+```math
+C=1\times10^{-6}F
+```
