@@ -381,3 +381,9 @@ y(t)
 ## Step 7: Rewrite the Steady-State Output
 
 For the low-frequency term,
+
+```math
+R
+=
+\sqrt{0.9999^2+(-0.009999)^2}
+```
