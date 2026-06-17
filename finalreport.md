@@ -489,3 +489,15 @@ Its limit is
 So the transient response disappears as time increases.
 
 The steady-state output is
+
+```math
+y_{ss}(t)
+=
+0.99995\sin(10t-0.01)
++
+0.3536
+\sin
+\left(
+1000t-\frac{\pi}{4}
+\right)
+```
