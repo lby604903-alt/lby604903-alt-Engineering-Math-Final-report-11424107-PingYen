@@ -88,4 +88,11 @@ we obtain
 
 Factor out \(Y(s)\).
 
+```math
+Y(s)(0.001s+1)
+=
+\frac{10}{s^2+100}
++
+\frac{500}{s^2+1000000}
+```
 
