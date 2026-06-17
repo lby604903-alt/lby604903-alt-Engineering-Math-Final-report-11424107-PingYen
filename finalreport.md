@@ -253,3 +253,7 @@ Expand.
 ```
 
 Compare coefficients.
+
+```math
+D+F=0
+```
