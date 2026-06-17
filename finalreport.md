@@ -536,3 +536,9 @@ A_{out}
 ```
 
 For the high-frequency noise,
+
+```math
+A_{in}
+=
+0.5
+```
