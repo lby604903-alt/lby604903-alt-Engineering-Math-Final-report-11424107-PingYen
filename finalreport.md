@@ -6,3 +6,6 @@
 
 The relationship between the input signal and the output voltage is
 
+```math
+RC\frac{dy(t)}{dt}+y(t)=f(t)
+```
