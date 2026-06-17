@@ -446,3 +446,5 @@ R
 ---
 
 ## Step 8: Write the Final Output
+
+Substitute the results into the output equation.
