@@ -9,3 +9,9 @@ The relationship between the input signal and the output voltage is
 ```math
 RC\frac{dy(t)}{dt}+y(t)=f(t)
 ```
+
+The input signal is
+
+```math
+f(t)=\left[\sin(10t)+0.5\sin(1000t)\right]u(t)
+```
