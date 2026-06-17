@@ -501,3 +501,7 @@ y_{ss}(t)
 1000t-\frac{\pi}{4}
 \right)
 ```
+
+---
+
+## Step 10: Verify the Filtering Effect
