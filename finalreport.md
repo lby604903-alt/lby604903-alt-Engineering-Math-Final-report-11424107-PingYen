@@ -534,3 +534,5 @@ A_{out}
 =
 99.995\%
 ```
+
+For the high-frequency noise,
