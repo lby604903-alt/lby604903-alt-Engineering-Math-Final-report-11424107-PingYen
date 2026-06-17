@@ -319,3 +319,5 @@ y_2(t)
 ---
 
 ## Step 6: Combine the Output
+
+From Step 4,
