@@ -365,3 +365,14 @@ R
 \approx
 0.99995
 ```
+
+```math
+\phi
+=
+\tan^{-1}
+\left(
+\frac{0.009999}{0.9999}
+\right)
+\approx
+0.01
+```
