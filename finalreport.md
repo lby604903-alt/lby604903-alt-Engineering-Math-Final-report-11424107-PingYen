@@ -27,3 +27,7 @@ y(0)=0
 ## Step 2: Substitute the Given Circuit Parameters
 
 Given
+
+```math
+R=1000\Omega
+```
