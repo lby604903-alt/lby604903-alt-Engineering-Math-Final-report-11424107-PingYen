@@ -135,3 +135,6 @@ Y_1(s)
 \frac{10000}
 {(s^2+100)(s+1000)}
 ```
+
+Use partial fractions.
+
