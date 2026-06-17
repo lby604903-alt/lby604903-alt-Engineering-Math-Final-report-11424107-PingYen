@@ -147,3 +147,4 @@ Use partial fractions.
 \frac{C}{s+1000}
 ```
 
+Multiply by
