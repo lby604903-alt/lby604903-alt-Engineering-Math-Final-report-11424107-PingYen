@@ -107,3 +107,8 @@ Y(s)
 \frac{500}{(s^2+1000000)(0.001s+1)}
 ```
 
+---
+
+## Step 4: Solve the First Term
+
+
