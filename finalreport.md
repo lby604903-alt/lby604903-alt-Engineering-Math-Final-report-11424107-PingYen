@@ -252,29 +252,7 @@ Expand.
 500000
 ```
 
-Compare coefficients.
 
-```math
-D+F=0
-```
-
-```math
-1000D+E=0
-```
-
-```math
-1000E+1000000F=500000
-```
-
-Substitute the constants back.
-
-```math
-Y_2(s)
-=
-\frac{-0.25s+250}{s^2+1000000}
-+
-\frac{0.25}{s+1000}
-```
 
 ---
 
