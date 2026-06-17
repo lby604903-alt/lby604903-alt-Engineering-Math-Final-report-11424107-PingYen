@@ -384,3 +384,5 @@ Then
 =
 0.99995\sin(10t-0.01)
 ```
+
+For the high-frequency term,
