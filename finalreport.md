@@ -315,3 +315,7 @@ y_2(t)
 +
 0.25e^{-1000t}
 ```
+
+---
+
+## Step 6: Combine the Output
