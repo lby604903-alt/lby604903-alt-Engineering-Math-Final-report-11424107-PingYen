@@ -581,3 +581,7 @@ The attenuation is
 ## Low-Frequency Signal Preserved
 
 ## High-Frequency Component Attenuated
+
+Therefore, the RC low-pass filter preserves the low-frequency signal and attenuates the high-frequency component.
+
+---
