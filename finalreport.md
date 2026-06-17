@@ -148,3 +148,7 @@ Use partial fractions.
 ```
 
 Multiply by
+
+```math
+(s^2+100)(s+1000)
+```
