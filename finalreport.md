@@ -205,3 +205,5 @@ Rewrite
 =
 \frac{s+1000}{1000}
 ```
+
+Then
