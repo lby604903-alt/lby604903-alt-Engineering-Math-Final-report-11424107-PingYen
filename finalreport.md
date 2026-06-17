@@ -237,23 +237,7 @@ Multiply by
 =
 (Ds+E)(s+1000)
 +
-F(s^2+1000000)
-```
-
-Expand.
-
-```math
-(D+F)s^2
-+
-(1000D+E)s
-+
-1000E+1000000F
-=
-500000
-```
-
-
-
+F(s^2+1000000
 ---
 
 ## Step 6: Combine the Output
