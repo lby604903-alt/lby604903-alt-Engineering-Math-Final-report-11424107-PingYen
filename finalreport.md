@@ -227,3 +227,7 @@ Use partial fractions.
 ```
 
 Multiply by
+
+```math
+(s^2+1000000)(s+1000)
+```
