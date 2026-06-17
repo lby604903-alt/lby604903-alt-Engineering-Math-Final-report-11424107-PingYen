@@ -216,3 +216,12 @@ Y_2(s)
 ```
 
 Use partial fractions.
+
+```math
+\frac{500000}
+{(s^2+1000000)(s+1000)}
+=
+\frac{Ds+E}{s^2+1000000}
++
+\frac{F}{s+1000}
+```
