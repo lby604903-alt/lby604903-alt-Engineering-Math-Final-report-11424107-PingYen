@@ -281,3 +281,13 @@ Y_2(s)
 ## Step 6: Combine the Output
 
 From Step 4,
+
+```math
+y_1(t)
+=
+-0.009999\cos(10t)
++
+0.9999\sin(10t)
++
+0.009999e^{-1000t}
+```
