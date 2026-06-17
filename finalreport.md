@@ -174,3 +174,7 @@ Expand.
 ```
 
 Compare coefficients.
+
+```math
+A+C=0
+```
