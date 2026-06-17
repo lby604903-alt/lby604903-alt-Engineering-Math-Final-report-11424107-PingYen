@@ -251,3 +251,5 @@ Expand.
 =
 500000
 ```
+
+Compare coefficients.
