@@ -58,3 +58,14 @@ Substitute into the differential equation.
 ---
 
 ## Step 3: Apply the Laplace Transform
+
+By
+
+```math
+\mathcal L
+\left\{
+\frac{dy(t)}{dt}
+\right\}
+=
+sY(s)-y(0)
+```
