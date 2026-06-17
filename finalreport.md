@@ -138,3 +138,12 @@ Y_1(s)
 
 Use partial fractions.
 
+```math
+\frac{10000}
+{(s^2+100)(s+1000)}
+=
+\frac{As+B}{s^2+100}
++
+\frac{C}{s+1000}
+```
+
