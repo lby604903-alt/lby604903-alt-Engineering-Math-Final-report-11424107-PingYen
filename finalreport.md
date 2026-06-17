@@ -225,3 +225,5 @@ Use partial fractions.
 +
 \frac{F}{s+1000}
 ```
+
+Multiply by
