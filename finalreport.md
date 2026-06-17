@@ -259,3 +259,7 @@ Compare coefficients.
 ```math
 D+F=0
 ```
+
+```math
+1000D+E=0
+```
