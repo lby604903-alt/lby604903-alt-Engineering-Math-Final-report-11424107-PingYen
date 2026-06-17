@@ -45,3 +45,5 @@ RC
 =
 0.001
 ```
+
+Substitute into the differential equation.
