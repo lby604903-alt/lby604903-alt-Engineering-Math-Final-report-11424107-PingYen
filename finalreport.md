@@ -160,3 +160,5 @@ Multiply by
 +
 C(s^2+100)
 ```
+
+Expand.
